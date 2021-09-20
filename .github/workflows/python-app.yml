@@ -47,5 +47,5 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: shashankneuralmarker/all_repo:ci-cd-test-latest
+        tags: shashankneuralmarker/all_repo:triton-client
     
